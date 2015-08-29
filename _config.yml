@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            jersey_example
+tagline:          ''
+description:      'Simple JAX-RS example using Jersey and Maven'
+url:              http://ss37.github.io/jersey_example
+baseurl:          /
+
+author:
+  name:           'Shruti Sabusuresh'
+  url:            http://ss37.github.io
+
+paginate:         5
+
+# Custom vars
+version:          1.0
+
+github:
+  repo:           https://github.com/ss37/jersey_example
