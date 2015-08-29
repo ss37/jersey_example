@@ -4,9 +4,10 @@ title: Create and Setup Project in Eclipse
 ---
 
 For this project I have used the following tools:
-1. Eclipse Luna
-2. TomCat 7
-3. JRE and JDK for Java 7
+
+  1. Eclipse Luna
+  2. Tomcat 7
+  3. JRE and JDK for Java 7
 
 
 
@@ -49,6 +50,7 @@ For this project I have used the following tools:
   ![Image for Screenshot_11](https://raw.githubusercontent.com/ss37/jersey_example/gh-pages/public/images/screenshot_11.png "Screenshot_11")
 
 3. Now add all the following `Dependencies` in `pom.xml`:
+
   1. jersey-container-servlet v2.21
   2. jersey-server v2.21
   3. jersey-media-moxy v2.21
