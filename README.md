@@ -5,4 +5,6 @@ Simple JAX-RS example using Jersey and Maven
 
 I created a JAX-RS example using Jersey and Maven. Jersey is an open-source framework that offers an API to easily develop and run a JAX-RS. Maven is a tool that helps organise and build your projects. It is extremely helpful when you have many projects to build and reference, which very commonly occurs in large-scale Java applications.
 
-**Technology:** Java, Jersey JAX-RS, Maven, POJO
+**Tools and Technologies used:** Java, JAX-RS using Jersey, Maven, POJO, Eclipse, Tomcat and RESTClient add-on for Mozilla Firefox
+
+You can read more about it [here](https://ss37.github.io/jersey_example)
