@@ -7,4 +7,4 @@ I created a JAX-RS example using Jersey and Maven. Jersey is an open-source fram
 
 **Tools and Technologies used:** Java, JAX-RS using Jersey, Maven, POJO, Eclipse, Tomcat and RESTClient add-on for Mozilla Firefox
 
-You can read more about it [here](https://ss37.github.io/jersey_example)
+You can read more about it in [here](https://ss37.github.io/jersey_example).
